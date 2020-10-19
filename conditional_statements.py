@@ -1,4 +1,5 @@
-# conditional statements in python
+# conditional statements in python  - here you put a mistake this not conditional statement thsis operational statement that do operations in the program...
+
 import sys as sys
 
 a = int(sys.raw_input("Enter value 1:"));
